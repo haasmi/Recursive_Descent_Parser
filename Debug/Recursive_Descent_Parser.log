@@ -1,0 +1,3 @@
+﻿  Recursive_Descent_Parser.cpp
+C:\Users\Miriam\Desktop\3.Semester\Recursive_Descent_Parser\Recursive_Descent_Parser\Recursive_Descent_Parser.cpp(202): warning C4715: "state_machine": Nicht alle Codepfade geben einen Wert zurück.
+  Recursive_Descent_Parser.vcxproj -> C:\Users\Miriam\Desktop\3.Semester\Recursive_Descent_Parser\Debug\Recursive_Descent_Parser.exe
